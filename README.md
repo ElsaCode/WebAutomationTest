@@ -6,7 +6,7 @@
 - JUnit
 - Intellij IDEA
   
-##Scenario
+## Scenario
 - Visit website https://www.saucedemo.com/
 - Login with valid username and password
 - Login with invalid username and password 
