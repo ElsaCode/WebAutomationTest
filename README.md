@@ -1,4 +1,4 @@
-# Web Test Automation Framework
+# UI Web Test Automation Framework
 ## Tools used:
 - Selenium
 - Cucumber
