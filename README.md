@@ -10,7 +10,7 @@
 Test ini dilakukan pada Halaman Login pada web target. Beberapa tes yang dilakukan antara lain yaitu User akan memasukan username dan password yang Valid dan berhasil login kedalam web, 
 kemudian user memasukan username yang valid dan password invalid, tes ini ingin menguji tampilan error web dengan memunculkan teks error dan user tidak berhasil login. Tes terakhir yaitu
 dengan menggunakan boundaries atau batasan pada field username / password, pada tes ini dilakukan tes jika user memasukan username dengan karakter sangat panjang, tes ini ingin menguji 
-ampilan error web dengan memunculkan teks error dan user tidak berhasil login.
+tampilan error web dengan memunculkan teks error dan user tidak berhasil login.
 
   
 ## Scenario
